@@ -4,7 +4,8 @@
 [![Version](https://img.shields.io/cocoapods/v/NSJTextField.svg?style=flat)](http://cocoapods.org/pods/NSJTextField)
 [![License](https://img.shields.io/cocoapods/l/NSJTextField.svg?style=flat)](http://cocoapods.org/pods/NSJTextField)
 [![Platform](https://img.shields.io/cocoapods/p/NSJTextField.svg?style=flat)](http://cocoapods.org/pods/NSJTextField)
-
+## Demo
+<img src ="https://github.com/NSJoker/NSJTextField/blob/master/demo.gif" width = "414" height="670" alt="NSJTextField"/>
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
