@@ -1,0 +1,16 @@
+PODS:
+  - NSJTextField (0.1.0)
+
+DEPENDENCIES:
+  - NSJTextField (from `../`)
+
+EXTERNAL SOURCES:
+  NSJTextField:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NSJTextField: 43a322049f5cef1ba66a7e03e00715d15183315f
+
+PODFILE CHECKSUM: 374e3860b9cb0a53c714da73381a53efb86eb271
+
+COCOAPODS: 1.2.1

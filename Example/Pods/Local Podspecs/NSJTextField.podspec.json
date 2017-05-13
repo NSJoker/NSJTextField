@@ -1,0 +1,22 @@
+{
+  "name": "NSJTextField",
+  "version": "0.1.0",
+  "summary": "A short description of NSJTextField.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/laughofnsjoker@gmail.com/NSJTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "laughofnsjoker@gmail.com": "laughofnsjoker@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/laughofnsjoker@gmail.com/NSJTextField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NSJTextField/Classes/**/*"
+}

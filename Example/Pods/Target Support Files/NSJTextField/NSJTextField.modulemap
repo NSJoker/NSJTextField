@@ -1,0 +1,6 @@
+framework module NSJTextField {
+  umbrella header "NSJTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}

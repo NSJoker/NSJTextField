@@ -1,0 +1,6 @@
+framework module Pods_NSJTextField_Tests {
+  umbrella header "Pods-NSJTextField_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
