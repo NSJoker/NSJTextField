@@ -4,6 +4,11 @@
 [![Version](https://img.shields.io/cocoapods/v/NSJTextField.svg?style=flat)](http://cocoapods.org/pods/NSJTextField)
 [![License](https://img.shields.io/cocoapods/l/NSJTextField.svg?style=flat)](http://cocoapods.org/pods/NSJTextField)
 [![Platform](https://img.shields.io/cocoapods/p/NSJTextField.svg?style=flat)](http://cocoapods.org/pods/NSJTextField)
+
+## Problem
+
+Placeholder text works great for a simple username and password form, but not so much when there is more information. It's easy to forget which field is which once you've typed into all of the inputs.
+
 ## Demo
 <img src ="https://github.com/NSJoker/NSJTextField/blob/master/demo.gif" width = "414" height="670" alt="NSJTextField"/>
 
