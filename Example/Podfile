@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSJTextField_Example' do
+  pod 'NSJTextField', :path => '../'
+
+  target 'NSJTextField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
